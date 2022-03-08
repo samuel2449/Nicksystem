@@ -1,0 +1,10 @@
+name: Nicksystem
+version: '${project.version}'
+main: at.samu.Main
+api-version: 1.18
+depend: [SpigotServiceAPI, ProtocolLib]
+authors: [ Samu_ ]
+description: Nicksystem für GamboGames
+commands:
+  nick:
+  nicks:
